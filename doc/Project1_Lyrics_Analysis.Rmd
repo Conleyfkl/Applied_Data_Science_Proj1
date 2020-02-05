@@ -10,7 +10,7 @@ output: html_document
 
 
 # Introduction 
-Music is composed and performed for many purposes, ranging from aesthetic pleasure, religious or ceremonial purposes, or as an entertainment product for the marketplace. In the past 50 years, dramatic changes have taken place in music and the way music changes is worthy of investigating. This project mainly focus on the changes in the perspective of lyrics and is seperated into two parts:   
+Music is composed and performed for many purposes, ranging from aesthetic pleasure, religious or ceremonial purposes, or as an entertainment product for the marketplace. In the past 50 years, dramatic changes have taken place in music and the way music changes is worthy of investigating. This project mainly focus on the changes in the perspective of lyrics and is separated into two parts:   
 
 #### Exploratory Data Analysis of Songs from 1970s to 2010s  
 
