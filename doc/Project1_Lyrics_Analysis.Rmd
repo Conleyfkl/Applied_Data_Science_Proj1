@@ -4,6 +4,10 @@ author: 'Kangli Feng'
 date: '02/05/2020'
 output: html_document
 ---
+![](../figs/music.jpg)
+
+
+
 
 # Introduction 
 Music is composed and performed for many purposes, ranging from aesthetic pleasure, religious or ceremonial purposes, or as an entertainment product for the marketplace. In the past 50 years, dramatic changes have taken place in music and the way music changes is worthy of investigating. This project mainly focus on the changes in the perspective of lyrics and is seperated into two parts:   
