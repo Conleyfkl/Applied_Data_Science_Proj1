@@ -9,10 +9,20 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Spring 2020
 
-+ Projec title: Lorem ipsum dolor sit amet
++ Projec title: Listening to a Song by Reading Its Lyrics
 + This project is conducted by Kangli Feng
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: Music is composed and performed for many purposes, ranging from aesthetic pleasure, religious or ceremonial purposes, or as an entertainment product for the marketplace. In the past 50 years, dramatic changes have taken place in music and the way music changes is worthy of investigating. This project mainly focus on the changes in the perspective of lyrics and is seperated into two parts: 
+
+Exploratory Data Analysis of Songs from 1970s to 2010s:
+· Proportion of Each Genre in Different Decades  
+· Overview of Lyrics Length by Different Types of Genres
+· Sentisment Analysis of Each Genre in Different Ages and Cluster Result based on Sentisment Analysis
+
+Lyrics Style of Pop Singer Avril Lavigne:
+· Sentisment Analysis of Lyrics of Avril Lavigne
+· Clusting and Topic Share of Songs of Avril Lavigne
+
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
