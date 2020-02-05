@@ -14,7 +14,7 @@ Term: Spring 2020
 
 + Project summary: Music is composed and performed for many purposes, ranging from aesthetic pleasure, religious or ceremonial purposes, or as an entertainment product for the marketplace. In the past 50 years, dramatic changes have taken place in music and the way music changes is worthy of investigating. This project mainly focus on the changes in the perspective of lyrics and is seperated into two parts: 
 
-* Exploratory Data Analysis of Songs from 1970s to 2010s:
+*       Exploratory Data Analysis of Songs from 1970s to 2010s:
 - Proportion of Each Genre in Different Decades  
 - Overview of Lyrics Length by Different Types of Genres
 - Sentisment Analysis of Each Genre in Different Ages and Cluster Result based on Sentisment Analysis
